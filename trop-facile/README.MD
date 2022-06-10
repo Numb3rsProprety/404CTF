@@ -24,7 +24,7 @@
 
  Etant donne que c'etait mon tout premier chall de pwn c'etait plutot interessant et assez rapide a faire.
 
-**Recon**
+
 ![home](![image](https://user-images.githubusercontent.com/64932654/167711362-83b80e2f-f083-4199-ac3a-598aba2f2f82.png))
 - Le code source est relativement simple:
     - **Il y a une variable buf de 40bytes qui prend comme valeur un fgets de 49 bytes l'input**
