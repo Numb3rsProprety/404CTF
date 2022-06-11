@@ -27,7 +27,7 @@
 
 ![home](![image](https://user-images.githubusercontent.com/64932654/167711362-83b80e2f-f083-4199-ac3a-598aba2f2f82.png))
 - Le code source est relativement simple:
-    - **Il y a une variable buf de 40bytes qui prend comme valeur un fgets de 49 bytes l'input**
+    - **Il y a une variable buf de 40 octets qui prend comme valeur un fgets de 49 octets l'input**
     - **Une valeur check qui est egal a "0xcafebebe"**
     - **Une valeur key qui est egal a "0xdeadbeef"**
     - **On remarque que si key est egal a "0xcafebebe" et check a "0xdeadbeef" un shell se lance**
