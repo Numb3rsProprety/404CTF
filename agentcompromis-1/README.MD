@@ -5,7 +5,7 @@
 
 - Category: `Forensic`
 - Points: `1000` => `864`
-- Difficulty: Intro
+- Difficulty: Easy
 - Solves: `390`
 
 
